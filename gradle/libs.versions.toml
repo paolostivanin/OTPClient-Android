@@ -41,7 +41,7 @@ play-services-auth = "21.3.0"
 
 # Core
 core-ktx = "1.15.0"
-appcompat = "1.7.0"
+appcompat = "1.8.0"
 
 [libraries]
 # Compose
